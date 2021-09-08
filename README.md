@@ -1,13 +1,13 @@
-###Responsive E-commerce Website
+### Responsive E-commerce Website
 
 Elegeant responsive Ecommerce website. This website has Home, Shop an Contact pages.
 
-###Technologies Used
+### Technologies Used
 
 - HTML/CSS
 - Bootsrap
 
-###Screenshots
+### Screenshots
 
 <p align="center">
   <img src="screens/Home Desktop.png" />
